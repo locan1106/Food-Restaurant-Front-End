@@ -604,21 +604,6 @@ header .icons #menu-bars {
 	margin-right: 8px;
 }
 
-.footer .credit {
-	text-align: center;
-	font-size: 2rem;
-	border-top: 0.1rem solid rgba(0, 0, 0, 0.2);
-	color: var(--black);
-	padding: 0.5rem;
-	padding-top: 1.5rem;
-	margin-top: 1.5rem;
-}
-
-.footer .credit span {
-	color: var(--green);
-	font-weight: bolder;
-}
-
 /* Load container */
 
 .loader-container {
