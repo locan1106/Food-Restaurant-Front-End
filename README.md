@@ -4,11 +4,11 @@
 
 ### Desktop
 
-![image](/screenshoots/screenshoot1.png)
+![image](/screenshoots/Screenshoot1.png)
 
-![image](/screenshoots/screenshoot2.png)
+![image2](/screenshoots/Screenshoot2.png)
 
-![image](/screenshoots/screenshoot3.png)
+![image3](/screenshoots/Screenshoot3.png)
 
 ### Mobile
 
