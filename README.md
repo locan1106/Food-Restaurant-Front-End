@@ -1,21 +1,21 @@
-# Food Restaurant Front-End
+# Images of website
 
-## Images of website
+## Desktop
 
-### Desktop
-Screenshoot 1
+### Home page
+
 ![image](/screenshoots/Screenshoot1.png)
-Screenshoot 1
+### About
 ![image2](/screenshoots/Screenshoot2.png)
-Screenshoot 1
+### Footer
 ![image3](/screenshoots/Screenshoot3.png)
 
-### Mobile
-
+## Mobile
+### Mobile 1
 <p align="center">
   <img src="/screenshoots/Screenshoot4.png" />
 </p>
-Screenshoot 1
+### Mobile 2
 <p align="center">
   <img src="/screenshoots/Screenshoot5.png" />
 </p>
